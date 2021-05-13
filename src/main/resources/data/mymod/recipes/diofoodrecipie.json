@@ -1,0 +1,42 @@
+{
+  "group": "mymod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:golden_apple"
+    },
+    "1": {
+      "item": "minecraft:golden_apple"
+    },
+    "2": {
+      "item": "minecraft:golden_apple"
+    },
+    "3": {
+      "item": "minecraft:golden_apple"
+    },
+    "4": {
+      "item": "minecraft:cake"
+    },
+    "5": {
+      "item": "minecraft:golden_apple"
+    },
+    "6": {
+      "item": "minecraft:golden_carrot"
+    },
+    "7": {
+      "item": "minecraft:golden_carrot"
+    },
+    "8": {
+      "item": "minecraft:golden_carrot"
+    }
+  },
+  "result": {
+    "item": "mymod:dio_face_food",
+    "count": 1
+  }
+}

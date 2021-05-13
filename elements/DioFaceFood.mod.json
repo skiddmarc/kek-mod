@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "dioface",
+    "customModelName": "Normal",
+    "name": "Dio Face Food",
+    "rarity": "RARE",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 4,
+    "saturation": 0.4,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": "CUSTOM:DioFaceFood"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": false
+  }
+}

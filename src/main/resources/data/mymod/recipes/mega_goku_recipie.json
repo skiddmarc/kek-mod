@@ -1,0 +1,42 @@
+{
+  "group": "mymod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mymod:goku_powder"
+    },
+    "1": {
+      "item": "mymod:goku_powder"
+    },
+    "2": {
+      "item": "mymod:goku_powder"
+    },
+    "3": {
+      "item": "mymod:goku_powder"
+    },
+    "4": {
+      "item": "minecraft:dirt"
+    },
+    "5": {
+      "item": "mymod:goku_powder"
+    },
+    "6": {
+      "item": "mymod:goku_powder"
+    },
+    "7": {
+      "item": "mymod:goku_powder"
+    },
+    "8": {
+      "item": "mymod:goku_powder"
+    }
+  },
+  "result": {
+    "item": "mymod:deleted_mod_element",
+    "count": 1
+  }
+}

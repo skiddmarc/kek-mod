@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GokuPowder"
+      },
+      {
+        "value": "CUSTOM:GokuPowder"
+      },
+      {
+        "value": "CUSTOM:GokuPowder"
+      },
+      {
+        "value": "CUSTOM:GokuPowder"
+      },
+      {
+        "value": "Blocks.DIRT"
+      },
+      {
+        "value": "CUSTOM:GokuPowder"
+      },
+      {
+        "value": "CUSTOM:GokuPowder"
+      },
+      {
+        "value": "CUSTOM:GokuPowder"
+      },
+      {
+        "value": "CUSTOM:GokuPowder"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MegaGoku"
+    },
+    "name": "mega_goku_recipie",
+    "namespace": "mod"
+  }
+}
