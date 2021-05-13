@@ -45,6 +45,7 @@ public class MymodModElements {
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public MymodModElements() {
+		sounds.put(new ResourceLocation("mymod", "goku.oog"), new net.minecraft.util.SoundEvent(new ResourceLocation("mymod", "goku.oog")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("mymod").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

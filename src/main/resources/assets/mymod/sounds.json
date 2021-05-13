@@ -1,1 +1,11 @@
-{}
+{
+  "goku.oog": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "mymod:goku",
+        "stream": false
+      }
+    ]
+  }
+}

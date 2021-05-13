@@ -90,10 +90,20 @@
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "goku.oog",
+      "files": [
+        "goku"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
   "language_map": {
     "en_us": {
       "item.mymod.dio_face_food": "Dio Face Food",
+      "subtitles.goku.oog": "",
       "item.mymod.goku_powder": "Goku Powder"
     }
   },
